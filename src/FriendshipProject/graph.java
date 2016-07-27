@@ -3,7 +3,7 @@ package FriendshipProject;
 import java.io.*;
 import java.util.*;
 
-//Matthew Freeman Section 14 && Meesun Park Section 21
+//Meesun Park Section 21
 
 //person
 class Person{
